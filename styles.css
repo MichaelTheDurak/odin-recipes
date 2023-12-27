@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  background-color: darkgoldenrod;
+}
+
+ul {
+  font-weight: bold;
+  background-color: darksalmon;
+  color: maroon;
+}
+
+.important {
+  font-weight: bolder;
+  color: brown;
+  background-color: aquamarine;
+}
